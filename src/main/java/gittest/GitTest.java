@@ -5,5 +5,7 @@ public class GitTest {
 	  System.err.println(1+"22222");//修改为2222
 	  System.err.println(1+"   ");//并添加空格符
 	  System.err.println(1+"在工作空间里修改");
+	  System.err.println(1+"在分支上修改");
+	  
 	}
 }
