@@ -7,6 +7,7 @@ public class GitTest {
 	  System.err.println(1+"在工作空间里修改");
 	  System.err.println(1+"在分支上修改");
 	  System.err.println(1+"在分支上修改111111");
+	  System.err.println(1+"主干上修改更新到分支");
 	  
 	}
 }
